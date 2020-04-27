@@ -7,9 +7,6 @@ apt-get install sudo bzip2 unzip zip ssh rsync curl wget mc git tofrodos ntpdate
 # unavailable in some cases
 apt-get install firmware-linux
 
-# data recovery
-#apt-get install ntfs-3g exfat-fuse jmtpfs mtp-tools gphoto2
-
 # azure storage
 #apt-get install keyutils cifs-utils
 

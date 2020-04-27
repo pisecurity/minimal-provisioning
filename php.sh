@@ -52,4 +52,5 @@ link_php_compat_directory 7.0
 link_php_compat_directory 7.1
 link_php_compat_directory 7.2
 link_php_compat_directory 7.3
+link_php_compat_directory 7.4
 process_php_ini /etc/php5/cli/php.ini
