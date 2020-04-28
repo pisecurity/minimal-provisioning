@@ -1,0 +1,22 @@
+[user]
+	name = Tomasz Klim
+	email = github@tomaszklim.pl
+
+[core]
+	editor = mcedit
+
+[color]
+	ui = true
+
+[alias]
+	st = status
+	co = checkout
+	br = branch -avv
+	up = pull --rebase
+	di = diff -w
+	ci = commit
+	one = log --oneline --graph
+	hist = log --pretty=format:\"%h %ad | %s%d [%an]\" --graph --date=short
+
+[push]
+	default = matching
